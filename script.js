@@ -19,7 +19,7 @@ function calculateLove() {
     }
     let b=0;
     for(let i=0;i<combinedName.length;i++){
-        if(combinedName[i]==="t"||combinedName[i]==="r"||combinedName[i]==="u"||combinedName[i]==="e"){
+        if(combinedName[i]==="l"||combinedName[i]==="o"||combinedName[i]==="v"||combinedName[i]==="e"){
             b=b+1;
         }
     }
